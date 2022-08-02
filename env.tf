@@ -1,3 +1,3 @@
 local {
-  environment = "env1"
+  environment = "env2"
 }
